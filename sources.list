@@ -1,0 +1,10 @@
+deb http://ftp.kaist.ac.kr/ubuntu-ports/ focal main restricted
+deb http://ftp.kaist.ac.kr/ubuntu-ports/ focal-updates main restricted
+deb http://ftp.kaist.ac.kr/ubuntu-ports/ focal universe
+deb http://ftp.kaist.ac.kr/ubuntu-ports/ focal-updates universe
+deb http://ftp.kaist.ac.kr/ubuntu-ports/ focal multiverse
+deb http://ftp.kaist.ac.kr/ubuntu-ports/ focal-updates multiverse
+deb http://ftp.kaist.ac.kr/ubuntu-ports/ focal-backports main restricted universe multiverse
+deb http://ftp.kaist.ac.kr/ubuntu-ports/ focal-security main restricted
+deb http://ftp.kaist.ac.kr/ubuntu-ports/ focal-security universe
+deb http://ftp.kaist.ac.kr/ubuntu-ports/ focal-security multiverse
