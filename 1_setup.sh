@@ -1,1 +1,1 @@
-wget https://github.com/eazyH0/BAK
+wget https://raw.githubusercontent.com/eazyH0/BAK/refs/heads/main/1_setup.sh
